@@ -1,6 +1,5 @@
 # Not Down With Russia: New poll finds Americans growing hesitant of Putin's homeland 
-
-*__original story by Eli Yokley, Morning Consult
+### original story by Eli Yokley, Morning Consult
 
 [Russia Probe](https://morningconsult.com/2018/04/04/voters-more-wary-of-russia-since-mueller-probe-began/)
 
