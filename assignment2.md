@@ -1,4 +1,5 @@
 Question: What does Washington DC's growth mean for the city's longterm future?
+
 Data set: https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_16_5YR_S2502&prodType=table
 
 
