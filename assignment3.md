@@ -1,4 +1,4 @@
-Taylor Swift has put out six albums across both country and pop music platforms. All of her albums have garnered awards to a degree, some more than others, and her world tours are among the hottest concerts to attend. I wondered, with the amount of Grammy nominations she has earned over the years and the number or cities she has expanded to (or pulled away from) on her tours, is there a correlation between how many cities Swift visits on her world tour and the number of Grammys she wins from that album. This is the data I will be collecting:
+Taylor Swift has put out six albums across both country and pop music platforms. All of her albums have garnered awards to a degree, some more than others, and her world tours are among the hottest concerts to attend. So I wonder, with the amount of Grammy nominations she has earned over the years and the number or cities she has expanded to (or pulled away from) on her tours, is there a correlation between how many cities Swift visits on her world tour and the number of Grammys she wins from that album? This is the data I will be collecting:
 
 1) The six studio albums of Taylor Swift.
 
