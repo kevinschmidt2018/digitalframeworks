@@ -25,4 +25,4 @@ Red|86|66|20|4|No|No
 1989|85|63|22|10|Yes|No
 Reputation|51|40|11|TBD|TBD|TBD
 
-I will collect the data from past tour schedules to see how many stops were in the U.S. compared to overseas. I will collect nominations and wins from Swift's various records and albums from recored from the Recording Academy.  
+I will collect the data from past tour schedules to see how many stops were in the U.S. compared to overseas. I will collect nominations and wins from Swift's various records and albums from records from the Recording Academy.  
