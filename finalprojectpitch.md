@@ -1,4 +1,5 @@
 Final Data Project Pitch 
+
 Kevin Schmidt
 
 In a nation where the marriage rate continues to decline, how has the 2015 Supreme Court ruling changed the overall types of couples being married today. And as past Censuses have consistently recorded errors of same-sex marriages, how the inclusion of clearer language regarding relationships in the 2020 Census affect overall marriage demographics nationwide?
