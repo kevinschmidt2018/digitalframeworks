@@ -7,7 +7,7 @@ It is important to note that the data point “All Other Causes” is inclusive 
 
 The dataset is informative, but leaves more questions that answers regarding death rates of New Yorkers as a whole? What are the highest causes of death among minority men in the city, and how does that correlate with the overall number of deaths among minority men? With health-related issues being the highest causes of deaths among the selected demographic, how have the causes of death fluctuated over recent years in relation with advancments in the healthcare industry? 
 
-Of course, with "All Other Causes" being the third-highest cause of death, what are the cause that comprise this category? Homocide, 
+Of course, with "All Other Causes" being the third-highest cause of death, what are the cause that comprise this category? Homocide, accidental overdoses
 
 NYC Open Data’s website and its contents are free and available to anyone here: https://data.cityofnewyork.us/Health/New-York-City-Leading-Causes-of-Death/jb7j-dtam/data
 
