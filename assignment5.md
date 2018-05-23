@@ -1,7 +1,9 @@
 # How To Die In New York
 ![NewYorkchart](https://github.com/kevinschmidt2018/digitalframeworks/blob/master/NewYorkchart.png)
 
-The dataset represents the number of deaths in New York City among white, non-Hispanic males in 2014. The data was pulled from the City of New York database, NYC Open Data, for the dataset “New York City Leading Causes of Death: The leading causes of death by sex and ethnicity in New York City in since 2007.” The data from this particular set of NYC Open Data was from Department of Health and Mental Hygiene (DOHMH) in New York City.
+The nation's largest city is known for its over-the-top skyline, endless opportunities, and ridiculous rent prices, among other things. New York City's residents live their lives to the fullest, but just like citizens from every other American city, there comes a time when they live no more. The title of the dataset, How To Die In New York," is not intended to make a mockery or life's ending, but rather point out how one particular demographic (my own, not coincidentally) passes on in a single year.
+
+The dataset represents the number of deaths in New York City among white, non-Hispanic males in 2014. The data was found on the City of New York's online database, NYC Open Data, and pulled from the dataset “New York City Leading Causes of Death: The leading causes of death by sex and ethnicity in New York City in since 2007.” All of the facts and figures from this particular set of NYC Open Data was sourced from Department of Health and Mental Hygiene (DOHMH) in New York City, according to database's website. 
 
 It is important to note that the data point “All Other Causes” is inclusive of several other causes, below the minimum data point of “High Blood Pressure,” although the sum of these causes equal 2,275 fatalities. It is also important to note that “Fatal Accidents” does not include accidental overdoses.
 
