@@ -25,7 +25,7 @@ Reynolds County, also in State House District 144 and won by Trump in 2016, saw 
 
 Chariton and Ray counties in State House District 39 had similar trends: won by McCaskill in 2012 but claimed by Romney the same year and saw a large loss in margin of victory from the GOP candidate in the special election since Trump’s sweeping victory in the area. It is important to note the GOP candidate for state representative won by a larger margin in 2018 compared to 2012, so a trend toward blue is not necessarily apparent here. However, 
 
-# Suburban Strategy
+#_Suburban Strategy_*
 
 Jefferson County, a St. Louis suburb in State House District 97, and Jackson County, a Kansas City suburb in State Senate District 8, are vulnerable counties with larger populations and wavering political preferences. 
 
