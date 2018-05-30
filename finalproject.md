@@ -45,7 +45,7 @@ McCaskill grew up in various small towns in the state but she ended up in Columb
 
 An uncontested Republican has won the State House seat in District 50 for the past three elections, so seeing a 6.2 percent victory by a Democrat in Boone County during the 2017 special election is significant—even though the district as a whole went for the GOP candidate. In fact, it could be seen that the county is leaning further left, considering Clinton won by a wider margin that Obama in the county in 2016. And with more than 41,000 votes cast in the county in the 2014 midterm election, a hometown pivot would be a smart move for McCaskill this year. 
 
-![Voters](https://github.com/kevinschmidt2018/digitalframeworks/blob/master/VoterInfo.png)
+![VoterInfo](https://github.com/kevinschmidt2018/digitalframeworks/blob/master/VoterInfo.png)
 
 McCaskill won in 2006 by defeating an incumbent senator, and narrowly achieved victory in 2012 with much thanks to her Republican opponent, then-Congressman Todd Akin, for coining the term “legitimate rape” during a television interview just two months before the election. She won by nearly 16 percent, or roughly 428,000 votes. But midterm elections are notorious for low turnout, as seen in the chart below representing the 2014 election.
 
