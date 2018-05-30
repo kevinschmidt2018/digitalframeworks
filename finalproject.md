@@ -39,7 +39,7 @@ In the St. Louis metropolitan area, State House District 97, which is comprised 
 
 ### Hometown Hope
 
-McCaskill grew up in various small towns in the state but she ended up in Columbia, a college town where she attended high school and the University of Missouri. Columbia is in Boone County, located in the middle of the state and part of State House District 50. While the district does not include the portion of the county that the city of Columbia is in, it does include Columbia’s more rural suburbs and areas surrounding the state capital, Jefferson City. 
+McCaskill grew up in various small towns in the state but she ended up in Columbia, a college town where she attended high school and the University of Missouri. Columbia is a part of Boone County, located in the middle of the state and part of State House District 50. While the district does not include the portion of the county that the city of Columbia is in, it does include Columbia’s more rural suburbs and areas surrounding the state capital, Jefferson City. 
 
 An uncontested Republican has won the State House seat in District 50 for the past three elections, so seeing a 6.2 percent victory by a Democrat in Boone County during the 2017 special election is significant—even though the district as a whole went for the GOP candidate. In fact, it could be seen that the county is leaning further left, considering Clinton won by a wider margin that Obama in the county in 2016. And with more than 41,000 votes cast in the county in the 2014 midterm election, a hometown pivot would be a smart move for McCaskill this year. 
 
