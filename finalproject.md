@@ -1,5 +1,5 @@
 
-Midterms 2018: Where McCaskill should show off in the Show-Me State 
+# Midterms 2018: Where McCaskill should show off in the Show-Me State 
 
 by Kevin Schmidt
 
@@ -15,7 +15,7 @@ It Is important to note that, while some districts are composed of multiple coun
 
 According to 270towin.com, which averages all recent polling in Senate races nationwide, Senator McCaskill leads her opponent, Missouri Attorney General Josh Hawley, by 1 percentage point. Based on election analysis and voter turnout trends, McCaskill has an opportunity—rather, an obligation—to attract more Missouri voters in select rural and suburban counties that have experienced fluctuations in political preferences since her 2012 Senate campaign. 
 
-Rural Risk
+# Rural Risk
 
 Rural areas that could be a worthwhile focus for McCaskill lie in Iron and Reynolds counties in Missouri House District 144, and Chariton and Ray counties in Missouri House District 39.
 
@@ -25,7 +25,7 @@ Reynolds County, also in State House District 144 and won by Trump in 2016, saw 
 
 Chariton and Ray counties in State House District 39 had similar trends: won by McCaskill in 2012 but claimed by Romney the same year and saw a large loss in margin of victory from the GOP candidate in the special election since Trump’s sweeping victory in the area. It is important to note the GOP candidate for state representative won by a larger margin in 2018 compared to 2012, so a trend toward blue is not necessarily apparent here. However, 
 
-Suburban Strategy
+# Suburban Strategy
 
 Jefferson County, a St. Louis suburb in State House District 97, and Jackson County, a Kansas City suburb in State Senate District 8, are vulnerable counties with larger populations and wavering political preferences. 
 
@@ -33,7 +33,7 @@ In recent elections, Kansas City votes strongly democratic, but its immediate su
 
 In the St. Louis metropolitan area, State House District 97, which is comprised of portions of St. Louis and Jefferson Counties, is a key focal point for McCaskill. Jefferson County, which is the state’s sixth-most populous county, was won by Trump in 2016, although its district as a whole flipped in 2018 with a narrow victory by a Democrat. Because of such a democratic shift, capitalizing on this trend in the county could give her a significant boost. 
 
-Hometown Hope
+# Hometown Hope
 
 McCaskill grew up in various small towns in the state but she ended up in Columbia, a college town where she attended high school and the University of Missouri. Columbia is in Boone County, located in the middle of the state and part of State House District 50. While the district does not include the portion of the county that the city of Columbia is in, it does include Columbia’s more rural suburbs and areas surrounding the state capital, Jefferson City. 
 
@@ -46,6 +46,7 @@ She won by nearly 16 percent, or roughly 428,000 votes. But midterm elections ar
 Overall, Missouri had 4.1 million registered voters in 2014 with 1.4 million votes cast, about a 35 percent voter turnout rate. If a similar rate were to occur in 2018 and a 1 percent difference between McCaskill and her opponent would continue through election day, roughly 14,000 votes would separate the two. Given the volatility of some of these areas and the number of registered votes in these counties, these are opportune areas to be considered by the McCaskill campaign. 
 
 The data is not intended as a campaign strategy, but rather a suggestion to the candidate and provide a better insight to residents of the counties, districts and state. The complete dataset can be viewed here.
+______________________________________________________________________________________________________________________________
 
 Interview Questions:
 
