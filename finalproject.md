@@ -1,9 +1,9 @@
 
 ## Midterms 2018: Where McCaskill should show off in the Show-Me State 
 
-### by Kevin Schmidt
+#### _by Kevin Schmidt_
 
-### Datasets: [Full](https://docs.google.com/spreadsheets/d/1zygBbaS3_g6niCUaA9YCr0Zi1RCd_Eptm8yw7m8nZvg/edit#gid=0); Simplified; Charts
+### Datasets: [Full](https://docs.google.com/spreadsheets/d/1zygBbaS3_g6niCUaA9YCr0Zi1RCd_Eptm8yw7m8nZvg/edit#gid=0); [Simplified](https://docs.google.com/spreadsheets/d/1KPVKpoQ646a7oxGgEFDeSg9b_4oXj0ilubyyk3WRM_c/edit#gid=0); [Charts](https://docs.google.com/spreadsheets/d/1yPrwnB6JpBe14nwa8WxPoWqjOSjIkTvECRJrLy1h-X8/edit#gid=0)
 
 Between 1904 and 2004, Missouri voted for the winning candidate in every presidential election, with the exception of once. The Show-Me State, along with its 10 electoral votes, had long been considered a battleground comparable to Ohio or Michigan, but recent election cycles have shown a steady shift toward solid red. It started with President Obama’s razor thin 2008 loss in the state and, most recently, a Trump victory over Hillary Clinton by nearly 19 percentage points in 2016. Now, the trend is working against Sen. Claire McCaskill, D-Mo., who is running for her third term this year and is one of 10 Democrats defending Senate seats in states won by President Trump.
 
