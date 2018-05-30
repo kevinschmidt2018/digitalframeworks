@@ -47,8 +47,7 @@ An uncontested Republican has won the State House seat in District 50 for the pa
 
 ![Voters](https://github.com/kevinschmidt2018/digitalframeworks/blob/master/VoterInfo.png)
 
-McCaskill won in 2006 by defeating an incumbent senator, and narrowly achieved victory in 2012 with much thanks to her Republican opponent, then-Congressman Todd Akin, for coining the term “legitimate rape” during a television interview just two months before the election.
-She won by nearly 16 percent, or roughly 428,000 votes. But midterm elections are notorious for low turnout, as seen in the chart below representing the 2014 election.
+McCaskill won in 2006 by defeating an incumbent senator, and narrowly achieved victory in 2012 with much thanks to her Republican opponent, then-Congressman Todd Akin, for coining the term “legitimate rape” during a television interview just two months before the election. She won by nearly 16 percent, or roughly 428,000 votes. But midterm elections are notorious for low turnout, as seen in the chart below representing the 2014 election.
 
 Overall, Missouri had 4.1 million registered voters in 2014 with 1.4 million votes cast, about a 35 percent voter turnout rate. If a similar rate were to occur in 2018 and a 1 percent difference between McCaskill and her opponent would continue through election day, roughly 14,000 votes would separate the two. Given the volatility of some of these areas and the number of registered votes in these counties, these are opportune areas to be considered by the McCaskill campaign. 
 
